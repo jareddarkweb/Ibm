@@ -2,26 +2,9 @@
 
 Welcome to the Recon Data for IBM repository, a collection of recon and enumeration data specifically tailored for IBM-related assets. This repository is managed and maintained by the members of NahmSec's Discord group.
 
-![](https://ibb.co/VpTk6VN)
+![ff](https://ibb.co/VpTk6VN)
 
 This repository contains a comprehensive set of recon data for IBM, gathered and curated by NahmSec's Discord community. The aim is to provide a centralized resource for penetration testers, security researchers, and bug bounty hunters focusing on IBM's infrastructure.
-
-## Directory Structure
-
-recon-data-ibm/
-├── README.md
-├── subdomains/
-│ ├── subdomains-2024-07-01.txt
-│ └── subdomains-2024-07-15.txt
-├── endpoints/
-│ ├── endpoints-2024-07-01.txt
-│ └── endpoints-2024-07-15.txt
-├── screenshots/
-│ ├── screenshot-2024-07-01/
-│ └── screenshot-2024-07-15/
-└── vulnerabilities/
-├── vulnerabilities-2024-07-01.md
-└── vulnerabilities-2024-07-15.md
 
 
 - **subdomains/**: Contains lists of discovered subdomains.
