@@ -2,7 +2,7 @@
 
 Welcome to the Recon Data for IBM repository, a collection of recon and enumeration data specifically tailored for IBM-related assets. This repository is managed and maintained by the members of NahmSec's Discord group.
 
-![ff](https://ibb.co/VpTk6VN)
+![](pixlr-image-generator-d5bfecb3-ae4d-4294-815b-17b457a36ee5SSS.jpg)
 
 This repository contains a comprehensive set of recon data for IBM, gathered and curated by NahmSec's Discord community. The aim is to provide a centralized resource for penetration testers, security researchers, and bug bounty hunters focusing on IBM's infrastructure.
 
